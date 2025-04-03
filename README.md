@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7c853fb5-a15c-4f7c-afc8-262340001b04)# 🌱 Plant Disease Detection System
+<h1>🌱 Plant Disease Detection System </h1> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square">
